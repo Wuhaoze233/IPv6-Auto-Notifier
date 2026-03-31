@@ -42,7 +42,11 @@
 
 ---
 
-## 演示方案与部署指南
+## 自动部署指南
+
+下载 release 中 ipv6_notifier.exe 输入 config 后一键部署。
+
+## 手动部署指南
 
 ### 步骤 1：环境准备与测试
 1. 确保 Windows PC 安装了 [Python 3.6+](https://www.python.org/downloads/)。
